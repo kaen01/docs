@@ -94,7 +94,7 @@ If something is missing here, you can check the source to see if it exists.
 | [_int_](datatype-int.md) | **Chronobines** | Chronobines on your character |
 | [_int_](datatype-int.md) | **ClairvoyanceBonus** | Clairvoyance Bonus |
 | | **Clarity** | |
-| [_bool_](datatype-bool.md) | **Combat** | In combat? |
+| [_bool_](datatype-bool.md) | **Combat** | Is AutoAttacking?  |
 | [_spell_](datatype-spell.md) | **CombatAbility**[ _#_ ] | The name of Combat Ability # in your list (not the same as anyone else's list!) |
 | [_int_](datatype-int.md) | **CombatAbility**[ _name_ ] | The number of Combat ability name in your list (not the same as anyone else's list!) |
 | [_bool_](datatype-bool.md) | **CombatAbilityReady**[ _name \| #_ ] | Is this Combat Ability ready? |
