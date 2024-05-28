@@ -200,9 +200,22 @@ Represents an in-game spawn.
 
 :   Feigning?
 
-### {{ renderMember(name='FindBuff') }} 
+### {{ renderMember(type='spawn', name='FindBuff') }} 
+:
+### Predicates
+* `spa`		buff with SPA
+* `detspa`	Buff with detromental SPA for Movement Rate,  Melee Speed, Damage Shield, Reverse Damage Shield
+* `cat`     spell category
+* `subcat`	spell sub category
+* `class`	class of spell caster
+* `id`		spell id
+* `name`	spell name
+* `caster`	the casters id
+### Operators
+* `and`	
+* `or`	
+* `not`	
 
-:   
 
 ### {{ renderMember(type='bool', name='Fleeing') }} 
 
