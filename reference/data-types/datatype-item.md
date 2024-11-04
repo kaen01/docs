@@ -448,7 +448,7 @@ Contains the properties that describe an item.
 
 ### {{ renderMember(type='float', name='PctPower') }}
 
-:   ???
+:   The Percentage of power left on a powersource item
 
 ### {{ renderMember(name='PendingLore') }}
 
